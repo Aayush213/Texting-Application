@@ -10,4 +10,4 @@ The Texting Application is a simple messaging platform that allows users to send
 * Input Validation and Sanitization
 * Error handling
 
-``Note`` This repository is also integrated with SonarClod, a SAST, which helps us find security issues, hotspots, and potential bugs as soon as we add new code. 
+``Note`` This repository is also integrated with SonarCloud, a SAST, which helps us find security issues, hotspots, and potential bugs as soon as we add new code. 
